@@ -1,1 +1,1 @@
-# RDST-semeval2018-task3
+# Random Decision Syntax Trees at SemEval-2018 Task 3
